@@ -1,0 +1,8 @@
+{
+  "name": "Veklom SDK",
+  "description": "Governed Unified SDK developer platform, interactive playground, and API runtime for Veklom with Lane 3 capability execution and governance receipts.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
